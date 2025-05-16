@@ -1,0 +1,15 @@
+5- Ford Mustang
+--------------------------------------------------------------------------
+Company: Ford
+Price: $30,000
+Model: Mustang
+Make Year: 2022
+Vehicle Name: Ford Mustang
+City: Miami
+Mileage: Not specified
+Description: A powerful and iconic muscle car with a sleek design and high-performance capabilities.
+Seller Name: Rukan Zaman
+Engine: V8
+Rating: 4.9/5
+Color: Yellow
+--------------------------------------------------------------------------

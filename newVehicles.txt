@@ -1,0 +1,8 @@
+--------------------------------------------------------
+Company,Price,Model,Make Year,Vehicle Name,City		  |
+--------------------------------------------------------
+1- Toyota,$30000,Corolla,2023,Toyota Corolla,New York
+2- Honda,$28000,Accord,2023,Honda Accord,Los Angeles
+3- Ford,$35000,Fusion,2023,Ford Fusion,Chicago
+4- Chevrolet,$32500,Impala,2023,Chevrolet Impala,Houston
+5- Tesla,$50000,Model Y,2023,Tesla Model Y,Miami

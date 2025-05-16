@@ -1,0 +1,15 @@
+2- Yamaha MT-07
+--------------------------------------------------------------------------
+Company: Yamaha
+Price: $6,000
+Model: MT-07
+Make Year: 2020
+Vehicle Name: Yamaha MT-07
+City: Los Angeles
+Mileage: Not specified
+Description: A versatile and agile sport motorcycle known for its performance and style.
+Seller Name: Hasham Hassan
+Engine: Parallel-Twin
+Rating: 4.7/5
+Color: Blue
+--------------------------------------------------------------------------

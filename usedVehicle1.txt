@@ -1,0 +1,15 @@
+1- Toyota Camry
+--------------------------------------------------------------------------
+Company: Toyota
+Price: $20,000
+Model: Camry
+Make Year: 2020
+Vehicle Name: Toyota Camry
+City: New York
+Mileage: Not specified
+Description: A reliable and fuel-efficient sedan with modern features.
+Seller Name: Faiq Imtiaz
+Engine: Inline-4
+Rating: 4.8/5
+Color: Silver
+--------------------------------------------------------------------------

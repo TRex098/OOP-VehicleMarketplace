@@ -1,0 +1,15 @@
+3- Honda CBR500R
+--------------------------------------------------------------------------
+Company: Honda
+Price: $9,200
+Model: CBR500R
+Make Year: 2022
+Vehicle Name: Honda CBR500R
+City: Houston
+Mileage: Not specified
+Description: A sporty and lightweight motorcycle offering a thrilling riding experience.
+Seller Name: Abdul Nafay Khokhar
+Engine: Parallel-Twin
+Rating: 4.8/5
+Color: Red
+--------------------------------------------------------------------------

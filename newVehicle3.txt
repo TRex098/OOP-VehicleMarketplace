@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------
+3- Ford Fusion
+
+Company: Ford
+Price: $35,000
+Model: Fusion
+Make Year: 2023
+Vehicle Name: Ford Fusion
+City: Chicago
+Mileage: 22,000 miles
+Description: Sleek sedan with advanced tech features and spacious interior.
+Seller Name : Admin
+Fuel Type: Hybrid
+Engine: 2.0L 4-cylinder
+Rating: 4.2/5
+Color: Black
+--------------------------------------------------------------------------

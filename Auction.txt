@@ -1,0 +1,9 @@
+ ------------------------------------------------------------------
+| Item | Type       | Company          | Model       | Start Price |
+|------|------------|------------------|-------------|-------------|
+| 1    | Motorcycle | Harley Davidson  | Street 750  | $8,500      |
+| 2    | Motorcycle | Yamaha           | MT-07       | $6,000      |
+| 3    | Car        | Toyota           | Camry       | $20,000     |
+| 4    | Car        | Honda            | Civic       | $18,000     |
+| 5    | Car        | Ford             | Mustang     | $30,000     |
+ 

@@ -1,0 +1,15 @@
+4- Ducati Monster 821
+--------------------------------------------------------------------------
+Company: Honda Ducati
+Price: $12,000
+Model: Monster 821
+Make Year: 2021
+Vehicle Name: Ducati Monster 821
+City: Miami
+Mileage: Not specified
+Description: A naked sportbike with a powerful engine and distinctive Italian design.
+Seller Name: Ali Azmain
+Engine: L-Twin
+Rating: 4.6/5
+Color: Yellow
+--------------------------------------------------------------------------

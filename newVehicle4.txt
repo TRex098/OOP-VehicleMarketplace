@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------
+4- Chevrolet Impala
+
+Company: Chevrolet
+Price: $32,500
+Model: Impala
+Make Year: 2023
+Vehicle Name: Chevrolet Impala
+City: Houston
+Mileage: 18,000 miles
+Description: Full-size sedan offering a comfortable ride and modern amenities.
+Seller Name : Admin
+Fuel Type: Gasoline
+Engine: 3.6L V6
+Rating: 4.6/5
+Color: Blue
+--------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+2- Honda Civic
+--------------------------------------------------------------------------
+Company: Honda
+Price: $18,000
+Model: Civic
+Make Year: 2019
+Vehicle Name: Honda Civic
+City: Los Angeles
+Mileage: Not specified
+Description: A compact and efficient sedan known for its performance and style.
+Seller Name: Hasham Hassan
+Engine: Inline-4
+Rating: 4.7/5
+Color: Blue
+--------------------------------------------------------------------------

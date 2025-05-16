@@ -1,0 +1,15 @@
+3- Harley Davidson
+--------------------------------------------------------------------------
+Company: Harley Davidson
+Price: $8,500
+Model: Street 750
+Make Year: 2021
+Vehicle Name: Harley Street 750
+City: Chicago
+Mileage: Not specified
+Description: A cruiser motorcycle with a classic design and powerful performance.
+Seller Name: Abdul Nafay Khokhar
+Engine: V-Twin
+Rating: 4.5/5
+Color: Black
+--------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+1- Toyota Corolla
+--------------------------------------------------------------------------
+Company : Toyota
+Price : $30,000
+Model : Corolla
+Make Year : 2023
+Vehicle Name : Toyota Corolla
+City : New York
+Mileage : 25,000 miles
+Description : Compact sedan with modern features and fuel efficiency.
+Seller Name : Admin
+Fuel Type : Gasoline
+Engine : 2.0L 4-cylinder
+Rating : 4.5/5
+Color : Silver
+--------------------------------------------------------------------------

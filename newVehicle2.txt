@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------
+2- Honda Accord
+
+Company: Honda
+Price: $28,000
+Model: Accord
+Make Year: 2023
+Vehicle Name: Honda Accord
+City: Los Angeles
+Mileage: 20,000 miles
+Description: Midsize sedan known for reliability and comfort.
+Seller Name : Admin
+Fuel Type: Gasoline
+Engine: 1.5L Turbocharged 4-cylinder
+Rating: 4.8/5
+Color: White
+--------------------------------------------------------------------------

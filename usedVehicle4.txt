@@ -1,0 +1,15 @@
+4- Hyundai Sonata
+--------------------------------------------------------------------------
+Company: Hyundai
+Price: $22,000
+Model: Sonata
+Make Year: 2018
+Vehicle Name: Hyundai Sonata
+City: Houston
+Mileage: Not specified
+Description: A midsize sedan offering a comfortable ride and advanced safety features.
+Seller Name: Ali Azmain
+Engine: Inline-4
+Rating: 4.6/5
+Color: White
+--------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------
+5- Tesla Model Y
+
+Company: Tesla
+Price: $50,000
+Model: Model Y
+Make Year: 2023
+Vehicle Name: Tesla Model Y
+City: Miami
+Mileage: 15,000 miles
+Description: Electric SUV with cutting-edge technology and impressive range.
+Seller Name : Admin
+Engine: Dual Electric Motors
+Rating: 4.9/5
+Color: Red
+--------------------------------------------------------------------------

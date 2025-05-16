@@ -1,0 +1,15 @@
+5- Kawasaki Ninja 650
+--------------------------------------------------------------------------
+Company: Kawasaki
+Price: $7,500
+Model: Ninja 650
+Make Year: 2019
+Vehicle Name: Kawasaki Ninja 650
+City: New York
+Mileage: Not specified
+Description: A well-balanced sportbike with a comfortable riding position and strong performance.
+Seller Name: Rukan Zaman
+Engine: Parallel-Twin
+Rating: 4.5/5
+Color: Green
+--------------------------------------------------------------------------
